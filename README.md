@@ -1,3 +1,5 @@
+### This code is associated with the paper from Schwartenbeck et al., "Computational mechanisms of curiosity and goal-directed exploration". eLife, 2019. http://dx.doi.org/10.7554/eLife.41703.
+
 # CPC_ActiveInference2018
 
 Active Inference Tutorial from the Computational Psychiatry Conference in Zurich 2018 (http://www.translationalneuromodeling.org/cpcourse/)
